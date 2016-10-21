@@ -6,8 +6,27 @@
 
 html {
   box-sizing: border-box;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Dosis', sans-serif;
+  text-decoration: none;
+  color: #512200;
+  padding-left: 1rem;
+}
+
+.link-card:hover {
+  background-color: #512200;
+}
+
+main {
+  background-color: #dcd4cd;
+  border: 3px solid #785439;
+  border-radius: 3px;
 }
