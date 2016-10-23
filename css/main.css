@@ -38,3 +38,10 @@ main h1 p {
 .btn {
   text-align: center;
 }
+
+span {
+  background-color: #785439;
+  text-align: center;
+  border-radius: 8px;
+  padding: 1rem;
+}
