@@ -39,3 +39,14 @@ p {
 .link-card {
 
 }
+
+.btn {
+  text-align: center;
+  background-color: #512200;
+  padding: .4em .75em .5em;
+  border-radius: 3px;
+}
+
+nav ul {
+  color: #512200;
+}
