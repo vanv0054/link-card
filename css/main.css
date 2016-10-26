@@ -22,6 +22,7 @@ h1 {
   font-family: 'Dosis', sans-serif;
   color: #512200;
   font-size: 1.5rem;
+  margin-left: 1em;
 }
 
 div {
@@ -33,7 +34,8 @@ div {
 p {
   font-family: "Gerogia" serif;
   color: #512200;
-  font-size: 1.125rem;
+  font-size: 1rem;
+  margin-left: 1.4em;
 }
 
 .link-card {
@@ -49,4 +51,7 @@ p {
 
 nav ul {
   color: #512200;
+  list-style-type: none;
+  font-size: .875rem;
+  margin-right: 
 }
