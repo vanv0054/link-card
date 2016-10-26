@@ -12,3 +12,30 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+a {
+  text-decoration: none;
+  line-height: 1.5;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  color: #512200;
+  font-size: 1.5rem;
+}
+
+div {
+  background-color: #dcd4cd;
+  border: 3px solid #785439;
+  border-radius: 3px;
+}
+
+p {
+  font-family: Gerogia;
+  color: #512200;
+  font-size: 1.125rem;
+}
+
+.link-card {
+
+}
