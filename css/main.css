@@ -21,27 +21,6 @@ h1 {
   padding-left: 1rem;
 }
 
-main:hover {
-  background-color: #cabdb2;
-}
-
-main {
-  background-color: #dcd4cd;
-  border: 3px solid #785439;
-  border-radius: 3px;
-}
-
-main h1 p {
-  font-family: Georgia;
-}
-
-.btn {
-  text-align: center;
-}
-
-span {
-  background-color: #785439;
-  text-align: center;
-  border-radius: 8px;
-  padding: 1rem;
+.link-card {
+  background-color: #512200;
 }
