@@ -29,13 +29,15 @@ div {
   background-color: #dcd4cd;
   border: 3px solid #785439;
   border-radius: 3px;
+  padding-right: .4em;
 }
 
 p {
-  font-family: "Gerogia" serif;
+  font-family: "Gerogia" sans-serif;
   color: #512200;
   font-size: 1rem;
   margin-left: 1.4em;
+  margin-right: 3.5em;
 }
 
 .link-card {
@@ -46,12 +48,13 @@ p {
   background-color: #512200;
   padding: .4em .75em .5em;
   border-radius: 3px;
-  margin: 7rem;
+  margin-left: 7rem;
+  color: #f0eee8;
+  font-family: 'Dosis', sans-serif;
 }
 
 nav ul {
   color: #512200;
   list-style-type: none;
   font-size: .875rem;
-  margin-right: 
 }
