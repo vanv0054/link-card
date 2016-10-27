@@ -50,7 +50,7 @@ p {
 }
 
 .link-card:hover {
-
+  background-color: #9a816d;
 }
 
 .link-card:hover .btn {
