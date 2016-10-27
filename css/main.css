@@ -40,8 +40,12 @@ p {
   margin-right: 3.5em;
 }
 
-.link-card {
+div:hover {
+  background-color: #cabdb2;
+}
 
+div .btn:hover {
+  background-color: #9a816d;
 }
 
 .btn {
@@ -51,6 +55,7 @@ p {
   margin-left: 7rem;
   color: #f0eee8;
   font-family: 'Dosis', sans-serif;
+  margin-bottom: 5rem;
 }
 
 nav ul {
