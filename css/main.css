@@ -15,10 +15,9 @@ html {
 
 a {
   text-decoration: none;
-  line-height: 1.5;
 }
 
-h1 {
+h2 {
   font-family: "Dosis", sans-serif;
   color: #512200;
   font-size: 1.5rem;
@@ -40,14 +39,6 @@ p {
   margin-right: 3.5em;
 }
 
-div:hover {
-  background-color: #cabdb2;
-}
-
-.btn div:hover {
-  background-color: #9a816d;
-}
-
 .btn {
   background-color: #512200;
   padding: .4em .75em .5em;
@@ -62,4 +53,16 @@ nav ul {
   color: #512200;
   list-style-type: none;
   font-size: .875rem;
+}
+
+.link-card {
+
+}
+
+.link-card:hover {
+
+}
+
+.link-card:hover .btn {
+  
 }
