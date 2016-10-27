@@ -33,28 +33,29 @@ p {
 }
 
 .btn {
-  background-color: #512200;
+  background-color: #785439;
   padding: .4em .75em .5em;
   border-radius: 3px;
   color: #f0eee8;
   font-family: Dosis, sans-serif;
   margin-bottom: 5rem;
+  font-weight: bold;
 }
 
 .link-card {
   background-color: #dcd4cd;
-  border: 3px solid #785439;
+  border: 3px solid #9a816d;
   border-radius: 3px;
   padding-right: .4em;
   display: block;
 }
 
 .link-card:hover {
-  background-color: #9a816d;
+  background-color: #cabdb2;
 }
 
 .link-card:hover .btn {
-
+  background-color: #512200;
 }
 
 .btn-wrap {
