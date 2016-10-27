@@ -24,13 +24,6 @@ h2 {
   margin-left: 1em;
 }
 
-div {
-  background-color: #dcd4cd;
-  border: 3px solid #785439;
-  border-radius: 3px;
-  padding-right: .4em;
-}
-
 p {
   font-family: "Georgia sans-serif";
   color: #512200;
@@ -53,10 +46,14 @@ nav ul {
   color: #512200;
   list-style-type: none;
   font-size: .875rem;
+  display: inline-block;
 }
 
 .link-card {
-
+  background-color: #dcd4cd;
+  border: 3px solid #785439;
+  border-radius: 3px;
+  padding-right: .4em;
 }
 
 .link-card:hover {
@@ -64,5 +61,5 @@ nav ul {
 }
 
 .link-card:hover .btn {
-  
+
 }
