@@ -18,7 +18,7 @@ a {
 }
 
 h2 {
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   color: #512200;
   font-size: 1.5rem;
   margin-left: 1em;
@@ -37,7 +37,7 @@ p {
   padding: .4em .75em .5em;
   border-radius: 3px;
   color: #f0eee8;
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   margin-bottom: 5rem;
 }
 
