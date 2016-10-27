@@ -36,17 +36,9 @@ p {
   background-color: #512200;
   padding: .4em .75em .5em;
   border-radius: 3px;
-  margin-left: 7rem;
   color: #f0eee8;
   font-family: "Dosis", sans-serif;
   margin-bottom: 5rem;
-}
-
-nav ul {
-  color: #512200;
-  list-style-type: none;
-  font-size: .875rem;
-  display: inline-block;
 }
 
 .link-card {
@@ -54,6 +46,7 @@ nav ul {
   border: 3px solid #785439;
   border-radius: 3px;
   padding-right: .4em;
+  display: block;
 }
 
 .link-card:hover {
@@ -62,4 +55,19 @@ nav ul {
 
 .link-card:hover .btn {
 
+}
+
+.btn-wrap {
+  text-align: center;
+}
+
+dt {
+  display: inline-block;
+  width: 40%;
+}
+
+dd {
+  display: inline-block;
+  width: 40%;
+  margin: 0;
 }
