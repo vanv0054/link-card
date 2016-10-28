@@ -29,7 +29,7 @@ p {
   color: #512200;
   font-size: 1rem;
   margin-left: 1.4em;
-  margin-right: 3.5em;
+  margin-top: 0;
 }
 
 .btn {
@@ -75,4 +75,5 @@ dd {
   width: 40%;
   margin: 0;
   color: #512200;
+  font-style: italic;
 }
