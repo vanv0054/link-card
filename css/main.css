@@ -77,3 +77,8 @@ dd {
   color: #512200;
   font-style: italic;
 }
+
+dl {
+  margin-bottom: 20px;
+  font-size: .875rem;
+}
